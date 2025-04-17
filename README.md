@@ -1,4 +1,5 @@
-i am cloud engineering
+I am currenty learning cloud computing and devops
+check out my resume here-my resume
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mamatha-savithri) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mamatha B S) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@mamatha B S) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mamatha5612gmail.com) 
 
