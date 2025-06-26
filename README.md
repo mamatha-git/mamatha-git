@@ -1,11 +1,13 @@
-
 <h1 align="center">Hi 👋, I'm Mamatha B S</h1>
 <h3 align="center">A passionate Cloud and DevOps Engineering from India</h3>
 
-
-<img align="right" alt="coding" width="400" src="https://user https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-girl-gif-2332171326726785246&psig=AOvVaw22PRTSDnF6pFm0Tj3sa7qB&ust=1751043460049000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLCh_rXHj44DFQAAAAAdAAAAABAE>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mamatha-git&label=Profile%20views&color=0e75b6&style=flat" alt="mamatha-git" /> </p>
+
+- Check out my resume here **https://drive.google.com/file/d/1FOjWAX9WoUsvvgHUu4YyttvkDOfJWnvI/view?usp=drivesdk**
+
+- 💬 Ask me about **Cloud, DevOps Tools**
+
+- 📫Reach out to me **mamathabs561@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,3 +22,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mamatha-git&show_icons=true&locale=en" alt="mamatha-git" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mamatha-git&" alt="mamatha-git" /></p>
+
