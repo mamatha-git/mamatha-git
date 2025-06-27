@@ -8,6 +8,8 @@
 
 - Check out my resume here **https://drive.google.com/file/d/1FOjWAX9WoUsvvgHUu4YyttvkDOfJWnvI/view?usp=drivesdk**
 
+- I'm looking to collabarate on DevOps projects
+
 - Reach out to me at **mamathabs561@gamil.com**
 
 - 💬 Ask me about **Cloud, DevOps Tools**
