@@ -1,8 +1,11 @@
 ![logo](https://github.com/mamatha-git/mamatha-git/blob/main/profile%20baground%20photo.jpg)
 <h1 align="center">Hi 👋, I'm Mamatha B S</h1>
+
 <h3 align="center">A passionate Cloud and DevOps Engineering from India</h3>
-# 💫 About Me:
-I am looking to collaborate on DevOps projects<br>Check out my resume here https://drive.google.com/file/d/1FOjWAX9WoUsvvgHUu4YyttvkDOfJWnvI/view?usp=drivesdk<br>Ask me about clou and DevOps tools<br>Reach out to me at mamathabs561@gmail.com
+
+I am looking to collaborate on DevOps projects<br>Check out my resume here https://drive.google.com/file/d/1FOjWAX9WoUsvvgHUu4YyttvkDOfJWnvI/view?
+
+usp=drivesdk<br>Ask me about clou and DevOps tools<br>Reach out to me at mamathabs561@gmail.com
 
 
 ## 🌐 Socials:
@@ -18,8 +21,7 @@ I am looking to collaborate on DevOps projects<br>Check out my resume here https
 ---
 [![](https://visitcount.itsvg.in/api?id=Mamatha&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Mamatha B S) 
+  ## 💰 You can help me by Donating 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
