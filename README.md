@@ -3,9 +3,13 @@
 
 <h3 align="center">A passionate Cloud and DevOps Engineering from India</h3>
 
-I am looking to collaborate on DevOps projects<br>Check out my resume here https://drive.google.com/file/d/1FOjWAX9WoUsvvgHUu4YyttvkDOfJWnvI/view?
+I am looking to collaborate on DevOps projects<br>
 
-usp=drivesdk<br>Ask me about clou and DevOps tools<br>Reach out to me at mamathabs561@gmail.com
+Check out my resume here https://drive.google.com/file/d/1FOjWAX9WoUsvvgHUu4YyttvkDOfJWnvI/view?
+
+Ask me about cloud and DevOps tools<br>
+
+Reach out to me at mamathabs561@gmail.com
 
 
 ## 🌐 Socials:
