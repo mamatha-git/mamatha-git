@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-07-07 at 20 07 53_dfc57243](https://github.com/user-attachments/assets/76461963-b525-49b2-bea1-36145e0ea4d7)
+  ![WhatsApp Image 2025-07-07 at 20 07 53_dfc57243](https://github.com/user-attachments/assets/76461963-b525-49b2-bea1-36145e0ea4d7)
 
 <h3 align="center"> Hi 👋, I'm Mamatha B S
 
