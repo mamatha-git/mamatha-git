@@ -1,4 +1,6 @@
-![logo](https://github.com/mamatha-git/mamatha-git/blob/main/profile%20baground%20photo.jpg)
+
+![WhatsApp Image 2025-07-07 at 20 01 47_9d5c56da](https://github.com/user-attachments/assets/7a4ec598-1823-4dd0-876f-f9c596aa8e60)
+
 
 <h3 align="center"> Hi 👋, I'm Mamatha B S
 
