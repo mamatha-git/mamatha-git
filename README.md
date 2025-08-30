@@ -14,7 +14,6 @@
 
 - 💬 Ask me about **Cloud, DevOps Tools**
 
-- 📫Reach out to me **mamathabs561@gmail.com**
 
 - ⚡ Fun fact **I think I'm funny**
 
