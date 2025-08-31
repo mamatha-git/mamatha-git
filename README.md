@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mamatha-git&label=Profile%20views&color=0e75b6&style=flat" alt="mamatha-git" /> </p>
 
-- Check out my resume here **https://drive.google.com/file/d/1FOjWAX9WoUsvvgHUu4YyttvkDOfJWnvI/view?usp=drivesdk**
+- Check out my resume here **https://drive.google.com/drive/quota**
 
 - I'm looking to collabarate on DevOps projects
 
